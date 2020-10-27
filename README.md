@@ -10,3 +10,7 @@ https://raw.githubusercontent.com/lance52587/subconverter_clash_ini/master/lese.
 
 ~~自用订阅转换后端地址
 https://sub2yml.herokuapp.com/sub?~~
+
+ChineseDomain为原版删除blizzard，原地址：
+
+https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ChinaDomain.list
