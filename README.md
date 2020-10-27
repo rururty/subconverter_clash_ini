@@ -4,13 +4,19 @@
 
 https://raw.githubusercontent.com/lance52587/subconverter_clash_ini/master/lance.ini
 
-lese
+清除exclude低质节点版：
 
 https://raw.githubusercontent.com/lance52587/subconverter_clash_ini/master/lese.ini
 
-~~自用订阅转换后端地址
-https://sub2yml.herokuapp.com/sub?~~
+战网外服拎出来版：
 
-ChineseDomain为原版删除blizzard，原地址：
+https://raw.githubusercontent.com/lance52587/subconverter_clash_ini/master/battlenet.ini
+
+其ChineseDomain为原版删除blizzard，原地址：
 
 https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/ChinaDomain.list
+
+
+~~自用订阅转换后端地址
+
+https://sub2yml.herokuapp.com/sub?~~
