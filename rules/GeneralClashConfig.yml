@@ -18,6 +18,7 @@ dns:
   enable: true
   listen: 127.0.0.1:8853
   default-nameserver:
+    - 202.118.66.6
     - 223.5.5.5
     - 1.0.0.1
   ipv6: false
