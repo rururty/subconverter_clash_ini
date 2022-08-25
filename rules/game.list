@@ -11,3 +11,9 @@ IP-CIDR,54.207.209.6/32,no-resolve
 DOMAIN-SUFFIX,2ksports.com
 IP-CIDR,13.125.27.72/32,no-resolve
 IP-CIDR,13.209.29.83/32,no-resolve
+
+# 糖豆人
+DOMAIN-SUFFIX,gamefuel.info
+DOMAIN-SUFFIX,oncatapult.com
+IP-CIDR,156.59.221.148/32,no-resolve
+ 
