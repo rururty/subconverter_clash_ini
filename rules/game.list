@@ -6,6 +6,7 @@ IP-CIDR,15.229.30.107/32,no-resolve
 IP-CIDR,18.181.250.137/32,no-resolve
 IP-CIDR,54.199.185.164/32,no-resolve
 IP-CIDR,54.207.209.6/32,no-resolve
+DOMAIN-SUFFIX,orgin.com
 
 # nba2k 
 DOMAIN-SUFFIX,2ksports.com
